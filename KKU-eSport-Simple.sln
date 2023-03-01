@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKU-eSport-Simple", "KKU-eSport-Simple.csproj", "{8CE02D3D-124F-4D2E-85B5-A727A08D3740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE02D3D-124F-4D2E-85B5-A727A08D3740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE02D3D-124F-4D2E-85B5-A727A08D3740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE02D3D-124F-4D2E-85B5-A727A08D3740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE02D3D-124F-4D2E-85B5-A727A08D3740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59AEFEA-84D3-452B-8A8D-C8FAE76652F6}
+	EndGlobalSection
+EndGlobal
